@@ -1,0 +1,2 @@
+# Intelligent-testing-using-Machine-Learning-Aricent
+Code written to find the exact problem area/topic from the given data. Here, I applied unsupervised learning topic modeling approach to find out the problem areas. So, I have implemented Natural Language Processing techniques like Latent Dirichlet allocation (LDA), the Latent semantic analysis (LSA) with python for analyzing relationships between given set of documents.
